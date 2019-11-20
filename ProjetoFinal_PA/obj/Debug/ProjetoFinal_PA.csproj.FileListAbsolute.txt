@@ -1,0 +1,12 @@
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\bin\Debug\ProjetoFinal_PA.exe.config
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\bin\Debug\ProjetoFinal_PA.exe
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\bin\Debug\ProjetoFinal_PA.pdb
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\obj\Debug\ProjetoFinal_PA.csprojResolveAssemblyReference.cache
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\obj\Debug\ProjetoFinal_PA.Form1.resources
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\obj\Debug\ProjetoFinal_PA.Properties.Resources.resources
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\obj\Debug\ProjetoFinal_PA.csproj.GenerateResource.Cache
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\obj\Debug\ProjetoFinal_PA.csproj.CoreCompileInputs.cache
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\obj\Debug\ProjetoFinal_PA.exe
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\obj\Debug\ProjetoFinal_PA.pdb
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\obj\Debug\ProjetoFinal_PA.Form2.resources
+c:\users\marcelo\Source\repos\ProjetoFinal_PA\ProjetoFinal_PA\obj\Debug\ProjetoFinal_PA.Form3.resources
