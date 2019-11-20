@@ -110,6 +110,14 @@ namespace ProjetoFinal_PA
                 }
                 MessageBox.Show("Cadastro efetuado com sucesso", "Sucesso", MessageBoxButtons.OK,
                 MessageBoxIcon.Information);
+                textBox1.Text = "";
+                textBox2.Clear();
+                textBox3.Clear();
+                textBox4.Clear();
+                textBox5.Clear();
+                textBox6.Clear();
+                comboBox1.SelectedIndex = -1;
+                textBox1.Focus();
 
             }
             catch(Exception ex)
@@ -135,6 +143,18 @@ namespace ProjetoFinal_PA
                 textBox1.Text = "Digite o código de barras";
                 textBox1.ForeColor = Color.Silver;
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            textBox2.Clear();
+            textBox3.Clear();
+            textBox4.Clear();
+            textBox5.Clear();
+            textBox6.Clear();
+            comboBox1.SelectedIndex = -1;
+            textBox1.Focus();
         }
     }
 }
